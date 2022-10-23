@@ -17,8 +17,8 @@
 ## My process
 
 - Created a JavaScript file with functions to censor strings 
-- Created a JSOn file to generate the Node.js Package Module
-- 
+- Created a JSON file to generate the Node.js Package Module
+- Installed the package and tested it
 
 ### Built with
 
