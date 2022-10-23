@@ -1,4 +1,4 @@
-# Censorify_Node_Package_Module
+# censorify Node.js Packaged Module
 
   This is a Node.js Packaged Module for censoring predefined words as well as customs words with 5 asterisk
 
